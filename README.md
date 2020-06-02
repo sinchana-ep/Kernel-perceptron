@@ -4,7 +4,7 @@ This script implements the perceptron update rule for non-linearly separable dat
 
  A new point is then classified by the learned hyperplane. 
  
- The kollowing kernel is used:
+ The following kernel is used:
  
 *K(x1, x2) = <x1, x2><sup>2* 
   
